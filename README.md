@@ -1,28 +1,34 @@
-# 🌸 Kawany Domingos Batista
-
 <div align="center">
+
+# 🌸 Kawany Domingos Batista
 
 **Desenvolvedora Full Stack | Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawanydb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanydomingosbatista15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanydb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawanydb)
+[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanydomingosbatista15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanydb)
 
 </div>
 
 ---
 
+<div align="center">
+
 ## 👋 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e com código de qualidade.
+Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras.
 
-**O que me move:**
-- 💡 Resolver problemas através de código criativo e eficiente
-- 📚 Aprender continuamente e compartilhar conhecimento
-- 🎯 Contribuir para projetos que fazem impacto real
-- 🚀 Explorar novas tecnologias e padrões de arquitetura
+### O que me move:
+💡 **Resolver problemas** através de código criativo e eficiente  
+📚 **Aprender continuamente** e compartilhar conhecimento  
+🎯 **Contribuir para projetos** que fazem impacto real  
+🚀 **Explorar novas tecnologias** e padrões de arquitetura
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🛠️ Stack Técnico
 
@@ -43,23 +49,29 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 💼 Competências
 
 | Categoria | Detalhes |
-|-----------|----------|
+|:-:|:-:|
 | **Linguagens** | C#, JavaScript, HTML5, Delphi |
 | **Frameworks** | .NET MAUI, .NET Framework, REST API |
 | **Arquitetura** | Orientada a Objetos, Design Patterns, MVC/MVVM |
 | **Desenvolvimento** | Full Stack, Desktop, Mobile Multiplataforma |
 | **Qualidade** | Testes Unitários, Clean Code, Versionamento Git |
 
+</div>
+
 ---
 
-## 📊 Estatísticas GitHub
-
 <div align="center">
+
+## 📊 Estatísticas GitHub
 
 [![Kawany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=github_light&hide_border=true&count_private=true)](https://github.com/kawanydb)
 
@@ -69,23 +81,33 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 
 ---
 
+<div align="center">
+
 ## 🎯 Atualmente
 
-- 🔨 Desenvolvendo aplicações com **C# e .NET MAUI**
-- 📚 Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**
-- 🤝 Contribuindo com a comunidade open source
-- 💡 Explorando **Cloud Computing** e **Arquitetura de Software**
-- 🧪 Praticando **testes automatizados** e **clean code**
+🔨 Desenvolvendo aplicações com **C# e .NET MAUI**  
+📚 Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**  
+🤝 Contribuindo com a comunidade open source  
+💡 Explorando **Cloud Computing** e **Arquitetura de Software**  
+🧪 Praticando **testes automatizados** e **clean code**
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🎨 Principais Projetos
 
 Confira meus repositórios para ver projetos práticos, estudos e contribuições:
 
-- 📁 [Ver todos os repositórios](https://github.com/kawanydb?tab=repositories)
+📁 [**Ver todos os repositórios**](https://github.com/kawanydb?tab=repositories)
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 📈 Roadmap 2026
 
@@ -95,23 +117,30 @@ Confira meus repositórios para ver projetos práticos, estudos e contribuiçõe
 - [ ] Explorar React ou Vue.js
 - [ ] Certificações profissionais
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📝 Artigos & Conteúdo
 
 Compartilhando aprendizados e experiências através de código e documentação clara.
 
----
+</div>
 
-## 💬 Vamos Conectar?
+---
 
 <div align="center">
 
+## 💬 Vamos Conectar?
+
 Estou sempre aberta a:
-- 💼 Propostas profissionais
-- 🤝 Colaborações em projetos
-- 📞 Mentoria e troca de conhecimento
-- 💡 Feedback e sugestões
+
+💼 Propostas profissionais  
+🤝 Colaborações em projetos  
+📞 Mentoria e troca de conhecimento  
+💡 Feedback e sugestões
 
 **[LinkedIn](https://linkedin.com/in/kawanydb)** • **[Email](mailto:kawanydomingosbatista15@gmail.com)**
 
