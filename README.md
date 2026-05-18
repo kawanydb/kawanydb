@@ -1,72 +1,67 @@
-# 🌸 Bem-vindo ao meu GitHub!
+# 🌸 Kawany Domingos Batista
 
 <div align="center">
 
-![Banner](https://img.shields.io/badge/-Kawany%20DB-ff69b4?style=for-the-badge&logo=github&logoColor=white)
+**Desenvolvedora Full Stack | Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software**
 
-### 💖 **Desenvolvedora em Formação | Full Stack**
-
-*Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawanydb)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanydomingosbatista15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanydb)
 
 </div>
 
 ---
 
-## 💗 Sobre mim
+## 👋 Sobre Mim
 
-Olá! Sou a **Kawany**, técnica em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
+Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e com código de qualidade.
 
--  **Formação**: Técnica em Desenvolvimento de Sistemas | Cursando Engenharia de Software
--  Desenvolvendo soluções robustas com foco em qualidade de código
--  Apaixonada por criar aplicações que fazem diferença
--  Sempre aprendendo e explorando novas tecnologias
--  Acredito que conhecimento compartilhado é conhecimento multiplicado
+**O que me move:**
+- 💡 Resolver problemas através de código criativo e eficiente
+- 📚 Aprender continuamente e compartilhar conhecimento
+- 🎯 Contribuir para projetos que fazem impacto real
+- 🚀 Explorar novas tecnologias e padrões de arquitetura
 
 ---
 
 ## 🛠️ Stack Técnico
 
-<div align="center">
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/-.NET%20MAUI-512BD4?style=flat-square&logo=.net&logoColor=white)
-![Delphi](https://img.shields.io/badge/-Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-FF6B6B?style=flat-square&logo=api&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### **Backend & Desktop**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
 
-</div>
+### **Ferramentas & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 ---
 
 ## 💼 Competências
 
-### Linguagens
-- **HTML5** - Estrutura semântica e acessibilidade
-- **JavaScript** - Lógica e interatividade frontend
-- **C#** - Desenvolvimento backend e desktop
-- **Delphi** - Desenvolvimento legado e moderno
-
-### Tecnologias & Frameworks
-- **.NET MAUI** - Aplicações mobile multiplataforma
-- **REST API** - Design e desenvolvimento de APIs
-- **Controle de Versão** - Git & GitHub
-
-### Conceitos
-- Desenvolvimento orientado a objetos
-- Boas práticas de código
-- Arquitetura de software
-- Testes e qualidade
+| Categoria | Detalhes |
+|-----------|----------|
+| **Linguagens** | C#, JavaScript, HTML5, Delphi |
+| **Frameworks** | .NET MAUI, .NET Framework, REST API |
+| **Arquitetura** | Orientada a Objetos, Design Patterns, MVC/MVVM |
+| **Desenvolvimento** | Full Stack, Desktop, Mobile Multiplataforma |
+| **Qualidade** | Testes Unitários, Clean Code, Versionamento Git |
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas GitHub
 
 <div align="center">
 
-[![Kawany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=github_light&hide_border=true)](https://github.com/kawanydb)
+[![Kawany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=github_light&hide_border=true&count_private=true)](https://github.com/kawanydb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanydb&layout=compact&theme=github_light&hide_border=true)](https://github.com/kawanydb)
 
@@ -76,25 +71,49 @@ Olá! Sou a **Kawany**, técnica em Desenvolvimento de Sistemas e estudante de E
 
 ## 🎯 Atualmente
 
-- 🔨 Desenvolvendo projetos com C# e .NET MAUI
-- 📚 Aprofundando conhecimentos em Engenharia de Software
-- 🤝 Contribuindo com a comunidade de desenvolvimento
-- 💡 Explorando novas arquiteturas e padrões de design
+- 🔨 Desenvolvendo aplicações com **C# e .NET MAUI**
+- 📚 Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**
+- 🤝 Contribuindo com a comunidade open source
+- 💡 Explorando **Cloud Computing** e **Arquitetura de Software**
+- 🧪 Praticando **testes automatizados** e **clean code**
 
 ---
 
-## 🎨 Projetos Destaque
+## 🎨 Principais Projetos
 
-Confira meus repositórios para ver meus trabalhos práticos e projetos em desenvolvimento!
+Confira meus repositórios para ver projetos práticos, estudos e contribuições:
+
+- 📁 [Ver todos os repositórios](https://github.com/kawanydb?tab=repositories)
 
 ---
 
-## 📫 Vamos conversar?
+## 📈 Roadmap 2026
+
+- [ ] Aprofundar conhecimento em Cloud (Azure/AWS)
+- [ ] Contribuir mais em projetos open source
+- [ ] Implementar CI/CD em meus projetos
+- [ ] Explorar React ou Vue.js
+- [ ] Certificações profissionais
+
+---
+
+## 📝 Artigos & Conteúdo
+
+Compartilhando aprendizados e experiências através de código e documentação clara.
+
+---
+
+## 💬 Vamos Conectar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawanydb)
-[![Email](https://img.shields.io/badge/-Email-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanydomingosbatista15@gmail.com)
+Estou sempre aberta a:
+- 💼 Propostas profissionais
+- 🤝 Colaborações em projetos
+- 📞 Mentoria e troca de conhecimento
+- 💡 Feedback e sugestões
+
+**[LinkedIn](https://linkedin.com/in/kawanydb)** • **[Email](mailto:kawanydomingosbatista15@gmail.com)**
 
 </div>
 
@@ -102,7 +121,7 @@ Confira meus repositórios para ver meus trabalhos práticos e projetos em desen
 
 <div align="center">
 
-### ✨ *"A excelência é o resultado de praticar boas práticas constantemente"* ✨
+### ✨ *"Código bom é código que outras pessoas conseguem entender"* ✨
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kawanydb.kawanydb)
 
