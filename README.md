@@ -12,7 +12,7 @@
 
 ---
 
-## 👋 Sobre mim
+## 💗 Sobre mim
 
 Olá! Sou a **Kawany**, técnica em Desenvolvimento de Sistemas e estudante de Engenharia de Software.
 
@@ -61,8 +61,6 @@ Olá! Sou a **Kawany**, técnica em Desenvolvimento de Sistemas e estudante de E
 - Testes e qualidade
 
 ---
-
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
