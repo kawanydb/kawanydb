@@ -64,11 +64,13 @@ Olá! Sou a **Kawany**, técnica em Desenvolvimento de Sistemas e estudante de E
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=rose&hide_border=true&bg_color=fff0f5&title_color=ff69b4&icon_color=ff69b4&text_color=333)
+[![Kawany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=github_light&hide_border=true)](https://github.com/kawanydb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanydb&layout=compact&theme=rose&hide_border=true&bg_color=fff0f5&title_color=ff69b4&text_color=333)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanydb&layout=compact&theme=github_light&hide_border=true)](https://github.com/kawanydb)
 
 </div>
 
