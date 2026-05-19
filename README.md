@@ -16,7 +16,7 @@
 
 ## 👋 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras.
+Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras que agregam valor real aos projetos.
 
 ### O que me move:
 💡 **Resolver problemas** através de código criativo e eficiente  
@@ -83,7 +83,7 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 
 <div align="center">
 
-## 🎯 Atualmente
+## 🎯 Atuações
 
 🔨 Desenvolvendo aplicações com **C# e .NET MAUI**  
 📚 Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**  
@@ -102,30 +102,6 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 Confira meus repositórios para ver projetos práticos, estudos e contribuições:
 
 📁 [**Ver todos os repositórios**](https://github.com/kawanydb?tab=repositories)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 Roadmap 2026
-
-- [ ] Aprofundar conhecimento em Cloud (Azure/AWS)
-- [ ] Contribuir mais em projetos open source
-- [ ] Implementar CI/CD em meus projetos
-- [ ] Explorar React ou Vue.js
-- [ ] Certificações profissionais
-
-</div>
-
----
-
-<div align="center">
-
-## 📝 Artigos & Conteúdo
-
-Compartilhando aprendizados e experiências através de código e documentação clara.
 
 </div>
 
