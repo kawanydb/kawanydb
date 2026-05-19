@@ -16,13 +16,13 @@
 
 ## 👋 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras que agregam valor real aos projetos.
+Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software na Instituição Toledo de Ensino. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras que agregam valor real aos projetos.
 
 ### O que me move:
-💡 **Resolver problemas** através de código criativo e eficiente  
-📚 **Aprender continuamente** e compartilhar conhecimento  
-🎯 **Contribuir para projetos** que fazem impacto real  
-🚀 **Explorar novas tecnologias** e padrões de arquitetura
+ **Resolver problemas** através de código criativo e eficiente  
+ **Aprender continuamente** e compartilhar conhecimento  
+ **Contribuir para projetos** que fazem impacto real  
+ **Explorar novas tecnologias** e padrões de arquitetura
 
 </div>
 
@@ -113,10 +113,10 @@ Confira meus repositórios para ver projetos práticos, estudos e contribuiçõe
 
 Estou sempre aberta a:
 
-💼 Propostas profissionais  
-🤝 Colaborações em projetos  
-📞 Mentoria e troca de conhecimento  
-💡 Feedback e sugestões
+ -Propostas profissionais  
+ -Colaborações em projetos  
+ -Mentoria e troca de conhecimento  
+ -Feedback e sugestões
 
 **[LinkedIn](https://linkedin.com/in/kawanydb)** • **[Email](mailto:kawanydomingosbatista15@gmail.com)**
 
