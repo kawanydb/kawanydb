@@ -30,25 +30,16 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 
 <div align="center">
 
-## 🛠️ Stack Técnico
-
-### **Frontend**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### **Backend & Desktop**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=for-the-badge&logo=delphi&logoColor=white)
-
-### **Ferramentas & DevOps**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
-
+## 🛠️ Tecnologias & Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40" title="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" width="40" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="40" width="40" title="Figma"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" height="40" width="40" title="Unity"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" height="40" width="40" title=".NET"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40" width="40" title="VS Code"/>
 </div>
 
 ---
@@ -73,12 +64,9 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 
 ## 📊 Estatísticas GitHub
 
-[![Kawany's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kawanydb&show_icons=true&theme=github_light&hide_border=true&count_private=true)](https://github.com/kawanydb)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawanydb&theme=tokyonight" alt="Perfil do Github" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanydb&layout=compact&theme=github_light&hide_border=true)](https://github.com/kawanydb)
-
-</div>
-
+![Snake animation](https://github.com/kawanydb/kawanydb/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
 <div align="center">
