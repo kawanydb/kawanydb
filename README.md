@@ -1,16 +1,23 @@
+<!-- Título animado via Capsule Render -->
 <div align="center">
-
-# 💗 Kawany Domingos Batista
-
-**Desenvolvedora Full Stack | Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawanydb)
-[![Gmail](https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kawanydomingosbatista15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kawanydb)
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=200&section=header&text=💗Kawany%20Domingos&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%7C%20Engenharia%20de%20Software&descAlignY=58&descSize=18" />
 </div>
-
----
+<!-- Typing animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Kawany!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Pronta+a+aprender+mais+sobre+tecnologia+%E2%9C%A8" alt="Typing SVG" />
+</div>
+<!-- Badges de contato -->
+<div align="center">
+  <a href="https://linkedin.com/in/kawanydb">
+    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:kawanydomingosbatista15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/kawanydb">
+    <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
+</div>
+<br/>
 
 <div align="center">
 
