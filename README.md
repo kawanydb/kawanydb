@@ -23,7 +23,8 @@
 
 ## 👋 Sobre Mim
 
-Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Desenvolvimento de Sistemas e cursando Engenharia de Software na Instituição Toledo de Ensino. Meu foco é desenvolver soluções robustas, escaláveis e inovadoras que agregam valor real aos projetos.
+Sou uma desenvolvedora apaixonada por tecnologia, formada tecnicamente em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na Instituição Toledo de Ensino (ITE).
+Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempenho, inovação e uma experiência de qualidade para os usuários.
 
 </div>
 
