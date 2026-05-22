@@ -34,7 +34,7 @@
 
 <div align="center">
 
-## 👋 Sobre Mim
+## Sobre Mim
 
 Sou uma desenvolvedora apaixonada por tecnologia, formada tecnicamente em Desenvolvimento de Sistemas e atualmente cursando Engenharia de Software na Instituição Toledo de Ensino (ITE).
 Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempenho, inovação e uma experiência de qualidade para os usuários.
@@ -45,7 +45,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height="40" width="40" title="C#"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="40" width="40" title="HTML5"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="40" width="40" title="CSS3"/>
@@ -61,7 +61,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## 💼 Competências
+## Competências
 
 | Categoria | Detalhes |
 |:-:|:-:|
@@ -77,7 +77,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## 📊 Estatísticas GitHub
+## Estatísticas GitHub
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawanydb&theme=tokyonight" alt="Perfil do Github" /></p>
 
@@ -86,7 +86,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## 🎯 Atuações
+## Atuações
 
  -Desenvolvendo aplicações com **C#,JS,Delphi e .NET MAUI**  
  -Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**  
@@ -100,7 +100,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## 🎨 Principais Projetos
+## Principais Projetos
 
 Confira meus repositórios para ver projetos práticos, estudos e contribuições:
 
@@ -112,7 +112,7 @@ Confira meus repositórios para ver projetos práticos, estudos e contribuiçõe
 
 <div align="center">
 
-### ✨ *"Código bom é código que outras pessoas conseguem entender"* ✨
+### *“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson* 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kawanydb.kawanydb)
 
