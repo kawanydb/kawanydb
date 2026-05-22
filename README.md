@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Kawany Domingos Batista
+# 💗 Kawany Domingos Batista
 
 **Desenvolvedora Full Stack | Técnica em Desenvolvimento de Sistemas | Estudante de Engenharia de Software**
 
