@@ -1,7 +1,20 @@
 <!-- Título animado via Capsule Render -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4,ffb6c1,ff1493&height=200&section=header&text=💗Kawany%20Domingos&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Desenvolvedora%20Full%20Stack%20%7C%20Engenharia%20de%20Software&descAlignY=58&descSize=18" />
+
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif"
+    width="70px"
+    style="vertical-align: middle;"
+  />
+
+  <img 
+    src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=Kawany%20Domingos&fontSize=55&fontColor=ffffff&animation=fadeIn"
+    style="vertical-align: middle;"
+  />
+</p>
 </div>
+
 <!-- Typing animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Kawany!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Pronta+a+aprender+mais+sobre+tecnologia+%E2%9C%A8" alt="Typing SVG" />
