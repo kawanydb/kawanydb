@@ -112,7 +112,7 @@ Confira meus repositórios para ver projetos práticos, estudos e contribuiçõe
 
 <div align="center">
 
-### *“Programs must be written for people to read, and only incidentally for machines to execute.” — Harold Abelson* 
+### *“Programs must be written for people to read, and only incidentally for machines to execute.” - Harold Abelson* 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kawanydb.kawanydb)
 
