@@ -97,23 +97,6 @@ Confira meus repositórios para ver projetos práticos, estudos e contribuiçõe
 
 <div align="center">
 
-## 💬 Vamos Conectar?
-
-Estou sempre aberta a:
-
- -Propostas profissionais  
- -Colaborações em projetos  
- -Mentoria e troca de conhecimento  
- -Feedback e sugestões
-
-**[LinkedIn](https://linkedin.com/in/kawanydb)** • **[Email](mailto:kawanydomingosbatista15@gmail.com)**
-
-</div>
-
----
-
-<div align="center">
-
 ### ✨ *"Código bom é código que outras pessoas conseguem entender"* ✨
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kawanydb.kawanydb)
