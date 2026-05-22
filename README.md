@@ -73,7 +73,7 @@ Sou uma desenvolvedora apaixonada por tecnologia com formação técnica em Dese
 
 ## 🎯 Atuações
 
-🔨 Desenvolvendo aplicações com **C# e .NET MAUI**  
+🔨 Desenvolvendo aplicações com **C#,JS,Delphi e .NET MAUI**  
 📚 Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**  
 🤝 Contribuindo com a comunidade open source  
 💡 Explorando **Cloud Computing** e **Arquitetura de Software**  
