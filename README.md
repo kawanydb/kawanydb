@@ -17,19 +17,24 @@
 
 <!-- Typing animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Kawany!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Pronta+a+aprender+mais+sobre+tecnologia+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=D48BAA&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Kawany!+%F0%9F%91%8B;Desenvolvedora+Full+Stack+%F0%9F%92%BB;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Pronta+a+aprender+mais+sobre+tecnologia+%E2%9C%A8" alt="Typing SVG" />
 </div>
+
 <!-- Badges de contato -->
 <div align="center">
   <a href="https://linkedin.com/in/kawanydb">
-    <img src="https://img.shields.io/badge/LinkedIn-FF1493?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-CB6D9C?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:kawanydomingosbatista15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D48BAA?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
   <a href="https://github.com/kawanydb">
-    <img src="https://img.shields.io/badge/GitHub-FFB6C1?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-B57A93?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </div>
+
 <br/>
 
 <div align="center">
