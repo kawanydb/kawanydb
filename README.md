@@ -87,13 +87,13 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 
 <div align="center">
 
-## Atuações
+## 🚀 Atuações
 
- <ul>Desenvolvendo aplicações com **C#,JS,Delphi e .NET MAUI** </ul> 
- <ul>Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**</ul>  
- <ul>Contribuindo com a comunidade open source</ul>  
- <ul>Explorando **Cloud Computing** e **Arquitetura de Software**</ul>  
- <ul>Praticando **testes automatizados** e **clean code**</ul>
+<ul>Desenvolvendo aplicações com <strong>C#, JavaScript, Delphi e .NET MAUI</strong></ul>  
+<ul>Aprimorando conhecimentos em <strong>Engenharia de Software</strong> e <strong>Design Patterns</strong></ul>  
+<ul>Criando soluções com foco em <strong>boas práticas</strong>, organização e escalabilidade</ul>  
+<ul>Explorando <strong>Cloud Computing</strong> e <strong>Arquitetura de Software</strong></ul>  
+<ul>Praticando <strong>testes automatizados</strong> e <strong>Clean Code</strong></ul>
 
 </div>
 
