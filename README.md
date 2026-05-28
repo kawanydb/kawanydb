@@ -85,15 +85,15 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 ![Snake animation](https://github.com/kawanydb/kawanydb/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
-<div align="center">
+<div>
 
 ## Atuações
 
- -Desenvolvendo aplicações com **C#,JS,Delphi e .NET MAUI**  
- -Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**  
- -Contribuindo com a comunidade open source  
- -Explorando **Cloud Computing** e **Arquitetura de Software**  
- -Praticando **testes automatizados** e **clean code**
+ <ul>Desenvolvendo aplicações com **C#,JS,Delphi e .NET MAUI** </ul> 
+ <ul>Aprofundando conhecimentos em **Engenharia de Software** e **Design Patterns**</ul>  
+ <ul>Contribuindo com a comunidade open source</ul>  
+ <ul>Explorando **Cloud Computing** e **Arquitetura de Software**</ul>  
+ <ul>Praticando **testes automatizados** e **clean code**</ul>
 
 </div>
 
