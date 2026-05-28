@@ -85,7 +85,7 @@ Busco criar soluções modernas, eficientes e escaláveis, sempre unindo desempe
 ![Snake animation](https://github.com/kawanydb/kawanydb/blob/output/github-contribution-grid-snake-dark.svg)
 ---
 
-<div>
+<div align="center">
 
 ## Atuações
 
