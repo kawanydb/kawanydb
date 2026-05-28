@@ -84,7 +84,7 @@ Estou sempre em busca de novos conhecimentos, aprimorando minhas habilidades e e
 
 ## Estatísticas GitHub
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawanydb&theme=tokyonight" alt="Perfil do Github" /></p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kawanydb&theme=modern-lilac2&border_radius=5&locale=pt_BR&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 
 ![Snake animation](https://github.com/kawanydb/kawanydb/blob/output/github-contribution-grid-snake-dark.svg)
 ---
