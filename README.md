@@ -36,9 +36,9 @@
 
 ## Sobre Mim
 
-Tenho formação técnica em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software na Instituição Toledo de Ensino (ITE).
-Gosto de transformar ideias em soluções funcionais, buscando sempre escrever códigos organizados, eficientes e que proporcionem uma boa experiência para o usuário.
-Estou sempre em busca de novos conhecimentos, aprimorando minhas habilidades e evoluindo continuamente como desenvolvedora.
+Tenho formação técnica em Desenvolvimento de Sistemas e atualmente curso Engenharia de Software na Instituição Toledo de Ensino (ITE). </br>
+Gosto de transformar ideias em soluções funcionais, buscando sempre escrever códigos organizados, eficientes e que proporcionem uma boa experiência para o usuário.</br>
+Estou sempre em busca de novos conhecimentos, aprimorando minhas habilidades e evoluindo continuamente como desenvolvedora.</br>
 
 </div>
 
